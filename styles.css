@@ -1,0 +1,45 @@
+/* add your CSS here */
+
+/* card width */
+.card-attributes {
+    width: 310px;
+    border: 1px solid gray;
+    padding-left: 9px;
+    padding-bottom: 9px;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 5px;
+    background-color: aquamarine;
+}
+
+/* Image dimensions */
+.image-attributes {
+    width: 300px;
+    height: 200px;
+}
+
+/* attributes for the text detail */
+.textbox-attributes {
+    width: 280px;
+    border: 1px solid gray;
+    padding-left: 9px;
+    padding-right: 9px;;
+    padding-bottom: 9px;;
+}
+
+
+/* Fun fact about animal */
+p.fun-fact {
+    font-style: italic;
+} 
+
+/* unordered list attributes */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+/* list item attributes */
+span {
+    font-weight: bold;
+}
